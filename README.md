@@ -125,7 +125,7 @@ float:left;
 <center>
 
 
-<img src="tele5.jpg"height="400" width="450" align="center">
+<img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/main_card_image/https/bdt.computerhoy.com/sites/default/files/iphone-x-apple.png?itok=_xTJdFWI.PNG"height="400" width="450" align="center">
 <img src="tele4.jpg"height="400" width="450" align="center">
 <br></br>
 <br></br>
