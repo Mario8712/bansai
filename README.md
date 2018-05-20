@@ -1,5 +1,3 @@
-# bansai
-version 1 
 <!doctype html>
 <html lang="es">
 <head>
